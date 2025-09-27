@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Pranav Kalpathi Shankar&#39;s Portfolio</title>
+    <link>https://pranavkalpathishankar.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on Pranav Kalpathi Shankar&#39;s Portfolio</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://pranavkalpathishankar.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guess My Country!</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/projects/guessmycountry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pranavkalpathishankar.github.io/portfolio/projects/guessmycountry/</guid>
+      <description>A simple game where users have to&amp;hellip;well&amp;hellip;guess a country!</description>
+    </item>
+    <item>
+      <title>Maze Game</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/projects/mazegame/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://pranavkalpathishankar.github.io/portfolio/projects/mazegame/</guid>
+      <description>A game where a player has to navigate a Maze</description>
+    </item>
+  </channel>
+</rss>

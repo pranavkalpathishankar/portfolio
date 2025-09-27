@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pranav Kalpathi Shankar&#39;s Portfolio</title>
+    <link>https://pranavkalpathishankar.github.io/portfolio/</link>
+    <description>Recent content on Pranav Kalpathi Shankar&#39;s Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 612 September 60616 12:06:16 -0500</lastBuildDate><atom:link href="https://pranavkalpathishankar.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Posts</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/posts/</link>
+      <pubDate>Sat, 173 September 171733 15:21:33 -0500</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/posts/</guid>
+      <description>&lt;p&gt;This is where my posts go.
+This page will be updated later.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Résumé</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/resume/</link>
+      <pubDate>Sat, 173 September 171733 15:21:33 -0500</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/resume/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Internships&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;LLVM (Low-Level Virtual Machine) Intern - Google Summer of Code (Nov 2024 - Present)
+&lt;ul&gt;
+&lt;li&gt;Currently working on modernizing the &lt;a href=&#34;https://www-new.llvm.org&#34;&gt;LLVM Website&lt;/a&gt; under the leadership of Prof. Vassil Vaasilev (Princeton University).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;School Clubs And Roles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Team Lead, Technology Student Association (TSA) TEAMS Competition, Engineering Club (2025)
+&lt;ul&gt;
+&lt;li&gt;My team, 6950-HS-C, represented Westwood High School in the National TSA TEAMS competition and was ranked Top 20 nationally in the Presentation category.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Team Lead, The American Rocketry Challenge (TARC) Team, Engineering Club (2024-Present)
+&lt;ul&gt;
+&lt;li&gt;Developed team strategies and led the team to success in the February 2025, March 2025, and April 2025 TARC-organized launches.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Build and CAD, Orange Dynamite 2583 FRC, Robotics Club (2023-Present)
+&lt;ul&gt;
+&lt;li&gt;Helped build and CAD a robot that advanced to the States competition and won the Engineering Inspiration Award at Victoria, Texas (2025)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Lead CAD, Arrowhead FTC, Robotics Club (2022-2023)
+&lt;ul&gt;
+&lt;li&gt;CAD Lead for FTC team &amp;lsquo;Arrowhead&amp;rsquo; and participated in multiple regional competitions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;President and Founder, Web Development Club (2025)
+&lt;ul&gt;
+&lt;li&gt;Created a Web Development Club at Westwood High School to teach people HUGO, HTML, and CSS, and encouraged participation in multiple competitions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Extracurricular Activities&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/about/</link>
+      <pubDate>Sat, 172 September 171715 14:54:15 -0500</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/about/</guid>
+      <description>&lt;p&gt;Hey there! I’m Pranav Kalpathi Shankar, a high school student at Westwood High School and an aspiring aerospace engineer with a passion for bringing ambitious ideas to life through engineering, leadership, and design.&lt;/p&gt;
+&lt;p&gt;From 2024 to 2026, I led our TARC (Team America Rocketry Challenge) team, guiding us through every phase from concept to launch. I also served as the Team Lead for our Technology Student Association team, where I helped us qualify for the national competition in Nashville. On the robotics side, I was the CAD Lead for FIRST Tech Challenge (FTC) Team 17264 &amp;lsquo;Arrowhead&amp;rsquo;, designing and iterating precision components to boost performance on the field.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Just finished the course CSS Essential Training! </title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/posts/first-post/</link>
+      <pubDate>Sat, 263 September 262618 15:29:18 -0500</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/posts/first-post/</guid>
+      <description>&lt;p&gt;I am proud to say I just finished the Linkedin course CSS Essential Training by Christina Truong! It was a fun course as I got to learn a lot more about CSS while also seeing the real life applications of CSS and HTML in websites and gaming. Check it out here: &lt;a href=&#34;https://lnkd.in/gtbUbutzI&#39;m&#34;&gt;https://lnkd.in/gtbUbutzI&#39;m&lt;/a&gt; excited to share that I have successfully completed the CSS Essential Training course by Christina Truong on LinkedIn Learning!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Source Software</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/opensource/</link>
+      <pubDate>Wed, 11 September 10147 13:35:47 -0500</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/opensource/</guid>
+      <description>&lt;p&gt;My Open Source Software on GitHub&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Guess My Country!</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/projects/guessmycountry/</link>
+      <pubDate>Mon, 112 September 1010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/projects/guessmycountry/</guid>
+      <description>A simple game where users have to&amp;hellip;well&amp;hellip;guess a country!</description>
+    </item>
+    
+    <item>
+      <title>Maze Game</title>
+      <link>https://pranavkalpathishankar.github.io/portfolio/projects/mazegame/</link>
+      <pubDate>Mon, 112 September 1010 00:00:00 +0000</pubDate>
+      
+      <guid>https://pranavkalpathishankar.github.io/portfolio/projects/mazegame/</guid>
+      <description>A game where a player has to navigate a Maze</description>
+    </item>
+    
+  </channel>
+</rss>
